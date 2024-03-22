@@ -1,8 +1,9 @@
     class Forma {
 
-        constructor() {
+        constructor(tipoDeForma) {
 
             this.tipoDeForma = 'Forma Abstrata';
+            this.tipoDeForma = tipoDeForma;
         }
 
         imprimeForma() {
