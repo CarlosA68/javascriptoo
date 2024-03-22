@@ -7,8 +7,8 @@
 
         imprimeForma() {
 
-            // alert('Tipo de forma: ${this.tipoDEForma} - Área: ${this.calculaArea()}');
-            alert('Tipo de forma: ${this.tipoDeForma}');
+             alert(`Tipo de forma: ${this.tipoDEForma} - Área: ${this.calculaArea()}`);
+            //alert(`Tipo de forma: ${this.tipoDeForma}`);
 
         }
 
